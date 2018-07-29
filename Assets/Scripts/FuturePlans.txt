@@ -1,0 +1,20 @@
+﻿ASSIGNMENT REQUIREMENTS:
+FROM RUBERIC:
+	(DONE) Player Moves left/right/jump
+	(DONE) Player Affected by gravity
+	(DONE) Detects " isGrounded"
+	(DONE) Double jump (tripple or more is okay too, designer specified)
+	(DONE) Animation Blending - Idle, Walk, Jump/Fall
+	(DONE) Audio Source in Scene (music)
+	(DONE) AudioSource.PlayClipAtPoint() used a.k.a SFX 
+	(DONE) Player Lives for respawning
+	(DONE) Game has at least 3 levels (scenes)
+	(DONE) Game has start menu/victory/loss scenes
+	(DONE) Player has Checkpoints
+
+	bug/error free
+	Comments
+	Project organized
+	Code logic and Structure
+	Game Exceeds Minimum Requirements
+		See list above for current plans.
