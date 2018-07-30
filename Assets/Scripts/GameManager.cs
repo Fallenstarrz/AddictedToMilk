@@ -48,7 +48,7 @@ public class GameManager : MonoBehaviour
     {
         // Set current scene to the build index
         currentScene = SceneManager.GetActiveScene().buildIndex;
-        if (currentScene != 0)
+        if (currentScene != 0 && currentScene != 6)
         {
             if (player == null)
             {
@@ -63,7 +63,7 @@ public class GameManager : MonoBehaviour
                 else
                 {
                     // if our scene isnt the loss screen then load loss scene when we run out of lives
-                    if (currentScene != 5 && currentScene != 6)
+                    if (currentScene != 4 && currentScene != 5 && currentScene != 6)
                     {
                         sceneScript.LoadLoss();
                     }

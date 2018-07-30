@@ -16,11 +16,14 @@ public class GUI_Lives : MonoBehaviour
         {
             case (0):
             {
+                life3.enabled = false;
+                life2.enabled = false;
                 life1.enabled = false;
                 break;
             }
             case (1):
             {
+                life3.enabled = false;
                 life2.enabled = false;
                 break;
             }
