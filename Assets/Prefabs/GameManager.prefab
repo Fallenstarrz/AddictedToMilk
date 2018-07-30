@@ -59,7 +59,7 @@ MonoBehaviour:
   playerLives: 0
   maxLives: 3
   player: {fileID: 0}
-  playerPrefab: {fileID: 1592453397410968, guid: 1d905852726eaa34982bbdf442cd53c4,
+  playerPrefab: {fileID: 1067487166153068, guid: 1d905852726eaa34982bbdf442cd53c4,
     type: 2}
 --- !u!114 &114976810849145546
 MonoBehaviour:
